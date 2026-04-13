@@ -14,6 +14,13 @@ To predict whether a loan applicant is likely to default using machine learning 
 
 ---
 
+## 🌐 Live Deployment
+🚀 The application is deployed on Streamlit Cloud:
+
+👉 **[Click here to open the app](https://credit-risk-prediction-clykmamzbui8x3takdrma5.streamlit.app/)**
+
+---
+
 ## 📊 Dataset
 The dataset includes applicant financial and personal details such as:
 - Income
